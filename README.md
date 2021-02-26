@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
 :wave: Olá, Meu nome é Bruno Luis, tenho 20 anos.<br>
 Formado em analise e desenvolvimento de sistemas.<br>
+<br>
 Desenvolvedor FullStack<br>
 
 Atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
