@@ -11,5 +11,5 @@ atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**
 
 ![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=BLSSTI&show_icons=true&theme=radical)
 =
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLSSTI&layout=compact)](https://github.com/BLSSTI/github-readme-Estatísticas)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLSSTI&layout=compact&theme=radical)](https://github.com/BLSSTI/github-readme-Estatísticas)
 
