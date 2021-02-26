@@ -9,10 +9,12 @@ Olá, Bem vindo! <br> meu nome é Bruno, sou Desenvolvedor FullStack <br>
 atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
 
 
+<br>
+<br>
+<br>
+
 ![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=BLSSTI&show_icons=true&theme=radical&layout=compact)
 
 
-/**
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLSSTI&layout=compact&theme=radical)](https://github.com/BLSSTI/github-readme-Estatísticas)
+<!--[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLSSTI&layout=compact&theme=radical)](https://github.com/BLSSTI/github-readme-Estatísticas)-->
 
-**\
