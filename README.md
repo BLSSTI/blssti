@@ -5,6 +5,7 @@
 :wave: Olá, Meu nome é Bruno Luis, tenho 20 anos.<br>
 Formado em analise e desenvolvimento de sistemas.<br>
 Desenvolvedor FullStack<br>
+
 Atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
 
 Para propostas de trabalho ou apenas conversar basta entrar em contato comigo através das redes abaixo
