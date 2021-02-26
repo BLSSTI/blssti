@@ -2,8 +2,11 @@
 
 
 Olá, meu nome é Bruno, sou Desenvolvedor FullStack, 
-atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**   ![Alt Text](https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png)
-.
+<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=115 align=right>
+atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
+
+
+
 <!--
 **BLSSTI/blssti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
