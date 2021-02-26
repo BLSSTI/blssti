@@ -2,9 +2,10 @@
 
 # Bem vindo!
 <img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
-:wave: Olá, Meu nome é Bruno Luis, tenho 20 anos, moro em salvador-BA.<br> formado em analise e desenvolvimento de sistemas
-sou Desenvolvedor FullStack<br>
-atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
+:wave: Olá, Meu nome é Bruno Luis, tenho 20 anos.<br>
+Formado em analise e desenvolvimento de sistemas.<br>
+Desenvolvedor FullStack<br>
+Atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
 
 Para propostas de trabalho ou apenas conversar basta entrar em contato comigo através das redes abaixo
 
