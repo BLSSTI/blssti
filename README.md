@@ -1,23 +1,12 @@
 ### 
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=Node.JS)
+![Badge](https://img.shields.io/static/v1?label=TypeScript&message=language&color=blue&style=for-the-badge&logo=TypeScript)
 
 
-Olá, meu nome é Bruno, sou Desenvolvedor FullStack, 
-<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=115 align=right>
+Olá,<br> meu nome é Bruno, sou Desenvolvedor FullStack <br>
+<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
 atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
 
 
 
-<!--
-**BLSSTI/blssti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
