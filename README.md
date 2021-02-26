@@ -6,8 +6,10 @@
 
 
 Olá, Bem vindo! <br> meu nome é Bruno, sou Desenvolvedor FullStack <br>
-<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
 atualmente focado em **NodeJS** | **ReactJS** | **TypeScript**  
 
 
+![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=BLSSTI&show_icons=true&theme=radical)
+=
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLSSTI&layout=compact)](https://github.com/BLSSTI/github-readme-Estatísticas)
 
