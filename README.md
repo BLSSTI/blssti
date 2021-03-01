@@ -20,4 +20,3 @@ Para propostas de trabalho ou apenas conversar basta entrar em contato comigo at
 
 - Obrigado pela visita. 
 
-![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=BLSSTI&show_icons=true&theme=radical&layout=compact)
